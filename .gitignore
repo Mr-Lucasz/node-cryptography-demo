@@ -56,3 +56,6 @@ passwordFile.txt
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# saídas reais geradas ao rodar o programa - nunca commitar
+*chaveEIV*.txt
